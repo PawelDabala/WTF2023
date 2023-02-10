@@ -7,3 +7,19 @@ section {
 }
 h1 {color: blue;}
 p {color: rgba(36, 16, 122, 0.8);}
+
+.hotpink-header {
+    color: palevioletred;
+}
+
+#top {
+    background: #d48f8f;
+}
+
+nav a {
+    color: #417e25;
+}
+
+a {
+    color: yellow !important;
+}
